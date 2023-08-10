@@ -36,3 +36,6 @@ elif(definitiva>4.6 and definitiva<=5)
     print('Eres el mejor') 
 else:
     print('Ingresaste una nota mayor a 5, error')
+    
+    
+    # producto/ cantidad:## / precio:$$ / subtotal / Descuenta/ Iva / Neto/  decuento depende de la cantidad if(cantidad entre 1  and 11) =0% elif (canti entre 11 y 20) 7%, if(entre 21 y 30) 13%, if(31 y 40) 20%, if(mayor a 40) 35%
